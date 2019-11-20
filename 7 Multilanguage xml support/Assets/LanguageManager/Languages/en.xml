@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+
+  <English>
+
+    <string name="lang_en">English</string>
+    <string name="lang_es">Spanish</string>
+    <string name="lang_it">Italian</string>
+
+
+    <string name="PRESENTATION">Hello and welcome to Multi-Language System</string>
+      <string name="SAMPLE_TEXT_1">Here you can have some text (1).</string>
+      
+    
+      <string name="SAMPLE_DROPDOWN_1">ENG DROP OPTION 1</string>
+      <string name="SAMPLE_DROPDOWN_2">ENG DROP OPTION 2</string>
+      <string name="SAMPLE_DROPDOWN_3">ENG DROP OPTION 3</string>
+ 
+     
+  </English>
+
+</languages>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+
+  <Italian>
+
+    <string name="lang_en">Inglese</string>
+    <string name="lang_es">Spagnolo</string>
+    <string name="lang_it">Italiano</string>
+
+ 
+       <string name="SAMPLE_TEXT_1">Qui puoi avere del testo (1).</string>
+      
+
+      <string name="SAMPLE_DROPDOWN_1">ITA DROP OPTION 1</string>
+      <string name="SAMPLE_DROPDOWN_2">ITA DROP OPTION 2</string>
+      <string name="SAMPLE_DROPDOWN_3">ITA DROP OPTION 3</string>
+
+ 
+
+     
+  </Italian>
+
+</languages>
